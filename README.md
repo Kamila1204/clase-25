@@ -1,1 +1,1 @@
-# clase-25
+# proyect-25
